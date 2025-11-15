@@ -1,5 +1,7 @@
 # SeeDS
 
+![A seed sprouting](image.png)
+
 Common Data Structures in C.
 
 ## Implemented
