@@ -37,7 +37,7 @@ LinkedList* new_linked_list() {
 void insert_at_front(LinkedList* list, int value);
 void insert_at_end(LinkedList* list, int value);
 void insert(LinkedList* list, int value, int index);
-void delete(LinkedList* list, int index);
+void delete (LinkedList* list, int index);
 int length(LinkedList* list);
 void print_list(LinkedList* list);
 void free_list(LinkedList* list);
